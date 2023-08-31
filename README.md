@@ -4,7 +4,7 @@
 - Using different functions to clean The Office Datasets. 
 
 ### 	:file_folder: Data tables created using the following files:
-- Series Table: TheOffice_Series.CSV
+- Series Table: TheOffice_Series.CSV - Retrieved from Kaggle: https://www.kaggle.com/datasets/nehaprabhavalkar/the-office-dataset 
 - Actors Table: TheOffice_Actors.CSV
 - Character Table: TheOffice_Characters.CSV
 - Middlename Table: TheOffice_Middlename.CSV
