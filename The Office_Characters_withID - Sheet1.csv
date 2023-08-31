@@ -1,0 +1,17 @@
+char_id,Main_Char,First_Name,Last_Name,Age,Gender,Birthday
+BG-123,Michael Scott,Steve,Carell,61,M,1962-08-16
+BG-124,Jim Halpert,John,Krasinski,44,M,1979-10-20
+GG-223,Pam Beesly,Jenna,Fischer,49,F,1974-03-07
+BG-125,Dwight Schrute,Rainn,Wilson,57,M,1966-01-20
+GG-224,Angela Martin,Angela,Kinsey,52,F,1971-06-25
+BG-126,Ryan Howard,Benjamin,Novak,44,M,1979-07-31
+BG-127,Andy Bernard,Ed ,Helms,49,M,1974-01-24
+BG-128,Stanley Hudson,Leslie David,Baker,65,M,1958-02-19
+BG-129,Oscar Martinez,Oscar,Nunez,65,M,1958-11-18
+GG-225,Phyllis Vance,Phyllis,Smith,74,F,1949-08-15
+BG-130,Toby Flenderson,Paul,Lieberstein,56,M,1967-02-22
+BG-131,Creed Bratton,Creed,Bratton,80,M,1943-02-08
+BG-132,Daryl Philbin,Craig,Robinson,52,M,1971-10-25
+GG-226,Meredith Palmer,Kate,Flannery,59,F,1964-06-10
+BG-133,Kevon Malone,Brian,Baumgartner,50,M,1972-11-29
+GG-227,Kelly Kapoor,Mindy,Kaling,44,F,1979-06-24
