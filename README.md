@@ -12,12 +12,4 @@
 ### :hammer_and_pick: Tool Utilized: 
 - Database: PostgreSQL
 
-### Table of Contents
-- [Task One:](#task-one)
-
-
-
-# SQL Script
-
-### Task One:
-blah blah
+### SQL file can be found under files.
