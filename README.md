@@ -1,9 +1,9 @@
-# Exploring_The_Office
+# :star2: Exploring_The_Office :star2:
 
-### Project Goal: 
+### :clipboard: Project Goal: 
 - Using different functions to clean The Office Datasets. 
 
-### Data tables created using the following files:
+### 	:file_folder: Data tables created using the following files:
 - Series Table: TheOffice_Series.CSV
 - Actors Table: TheOffice_Actors.CSV
 - Character Table: TheOffice_Characters.CSV
