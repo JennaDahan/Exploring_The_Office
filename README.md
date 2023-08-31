@@ -9,7 +9,7 @@
 - Character Table: TheOffice_Characters.CSV
 - Middlename Table: TheOffice_Middlename.CSV
 
-### Tool Utilized: 
+### :hammer_and_pick: Tool Utilized: 
 - Database: PostgreSQL
 
   
